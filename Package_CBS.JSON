@@ -19,8 +19,8 @@
           },
           "url": "https://raw.githubusercontent.com/AlexBrownie04/CBSBoards/main/TornadoJetstreamV1.zip",
           "archiveFileName": "TornadoJetstreamV1.zip",
-          "checksum": "SHA-256:ac5bbbaaa6e1b0f141abdfa32e1afac6a0ab2c0c5dfa70f1a151f9e1aaf277dc",
-          "size": "4825888",
+          "checksum": "SHA-256:d6b8152114c35e4fb3de93cf38dca73c379d9830e0f19c80b1eb0ba600fcee5e",
+          "size": "4867959",
           "boards": [
             {
               "name": "Tornado/Jetstream"
