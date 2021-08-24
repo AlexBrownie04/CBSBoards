@@ -28,7 +28,6 @@
           ],
           "toolsDependencies": []
         },
-
         {
             "name": "CBS Products Boards",
             "architecture": "samd",
