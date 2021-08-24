@@ -19,8 +19,8 @@
           },
           "url": "https://raw.githubusercontent.com/AlexBrownie04/CBSBoards/main/TornadoJetstreamV1.zip",
           "archiveFileName": "TornadoJetstreamV1.zip",
-          "checksum": "SHA-256:f211de86962dc8934f875e6684edc5723db1b4d4b0153ce559e6571b03d57db5",
-          "size": "4872766",
+          "checksum": "SHA-256:ac5bbbaaa6e1b0f141abdfa32e1afac6a0ab2c0c5dfa70f1a151f9e1aaf277dc",
+          "size": "4825888",
           "boards": [
             {
               "name": "Tornado/Jetstream"
@@ -29,8 +29,62 @@
           "toolsDependencies": []
         }
 
+
+
+
+        {
+            "name": "CBS Products Boards",
+            "architecture": "samd",
+            "version": "1.0.2",
+            "category": "Contributed",
+            "help": {
+                "online": "http://www.cbsproducts.com"
+              },
+            "url": "https://raw.githubusercontent.com/AlexBrownie04/CBSBoards/main/TornadoJetstreamV2.zip",
+            "archiveFileName": "TornadoJetstreamV2.zip",
+            "checksum": "SHA-256:3825fbf7916a2c8234fcf14be5173fee6983d93830039f9644d08ddad273c7e2",
+            "size": "4751005",
+            "boards": [
+              {
+                "name": "Tornado/Jetstream"
+              }
+            ],
+            "toolsDependencies": [
+              {
+                "packager": "arduino",
+                "name": "arm-none-eabi-gcc",
+                "version": "7-2017q4"
+              },
+              {
+                "packager": "arduino",
+                "name": "bossac",
+                "version": "1.7.0-arduino3"
+              },
+              {
+                "packager": "arduino",
+                "name": "openocd",
+                "version": "0.10.0-arduino7"
+              },
+              {
+                "packager": "arduino",
+                "name": "CMSIS",
+                "version": "4.5.0"
+              },
+              {
+                "packager": "arduino",
+                "name": "CMSIS-Atmel",
+                "version": "1.2.0"
+              },
+              {
+                "packager": "arduino",
+                "name": "arduinoOTA",
+                "version": "1.2.1"
+              }
+            ]
+          }
       ],
       "tools": []
     }
   ]
 }
+
