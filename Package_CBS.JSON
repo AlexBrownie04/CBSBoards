@@ -27,57 +27,8 @@
             }
           ],
           "toolsDependencies": []
-        },
-        {
-            "name": "CBS Products Boards",
-            "architecture": "samd",
-            "version": "1.0.2",
-            "category": "Contributed",
-            "help": {
-                "online": "http://www.cbsproducts.com"
-              },
-            "url": "https://raw.githubusercontent.com/AlexBrownie04/CBSBoards/main/TornadoJetstreamV2.zip",
-            "archiveFileName": "TornadoJetstreamV2.zip",
-            "checksum": "SHA-256:3825fbf7916a2c8234fcf14be5173fee6983d93830039f9644d08ddad273c7e2",
-            "size": "4751005",
-            "boards": [
-              {
-                "name": "Tornado/Jetstream"
-              }
-            ],
-            "toolsDependencies": [
-              {
-                "packager": "arduino",
-                "name": "arm-none-eabi-gcc",
-                "version": "7-2017q4"
-              },
-              {
-                "packager": "arduino",
-                "name": "bossac",
-                "version": "1.7.0-arduino3"
-              },
-              {
-                "packager": "arduino",
-                "name": "openocd",
-                "version": "0.10.0-arduino7"
-              },
-              {
-                "packager": "arduino",
-                "name": "CMSIS",
-                "version": "4.5.0"
-              },
-              {
-                "packager": "arduino",
-                "name": "CMSIS-Atmel",
-                "version": "1.2.0"
-              },
-              {
-                "packager": "arduino",
-                "name": "arduinoOTA",
-                "version": "1.2.1"
-              }
-            ]
-          }
+        }
+
       ],
       "tools": []
     }
